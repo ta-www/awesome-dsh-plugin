@@ -1,0 +1,6 @@
+url: https://github.com/ta-www/dsh-tripsy
+name: ta-www/dsh-tripsy
+category: ui
+description:
+  en: 'Browse your Tripsy trips in a DeepSeek Harness panel: itinerary, activities, lodging, transport and expenses, with each time rendered in its own timezone.'
+  zh: 在 DeepSeek Harness 面板里浏览你的 Tripsy 行程：日程、活动、住宿、交通与费用，时间按各条目自己的时区显示。
